@@ -8,20 +8,20 @@
   <a href="mailto:info@counterprompt.ai"><img src="https://img.shields.io/badge/info%40counterprompt.ai-0B1B3F?style=for-the-badge" alt="Email info@counterprompt.ai"></a>
 </p>
 
-<h3 align="center">AI agents now attack websites on their own.<br>Counterprompt turns that against them.</h3>
+<h3 align="center">AI agents now attack websites around the clock.<br>Make yours the one they give up on.</h3>
 
-<p align="center">They scan, probe, and try exploits around the clock, faster and cheaper than any human attacker.<br>Counterprompt plants decoys that only an attacker would go after, then quietly feeds it misleading information.<br>The agent burns its budget on dead ends and reports results that are wrong.</p>
+<p align="center">Stop losing sleep over AI attackers. Patch on your schedule instead of theirs.<br>Keep your customers happy and your data out of attackers' hands.</p>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">🎣<br><b>Bait the bots</b><br><sub>Decoys people never see and well-behaved search engines skip.</sub></td>
-    <td align="center" width="33%">🌀<br><b>Waste their time</b><br><sub>Attack agents chase dead ends and spend their budget on nothing.</sub></td>
-    <td align="center" width="33%">📉<br><b>Spoil their results</b><br><sub>What they report back is wrong.</sub></td>
+    <td align="center" width="33%">😴<br><b>Peace of mind</b><br><sub>Your nights and weekends stay yours.</sub></td>
+    <td align="center" width="33%">🗓️<br><b>Breathing room</b><br><sub>A late update stops being an emergency.</sub></td>
+    <td align="center" width="33%">🛒<br><b>Happy customers</b><br><sub>They browse and buy like nothing happened.</sub></td>
   </tr>
   <tr>
-    <td align="center">👥<br><b>Real visitors unaffected</b><br><sub>It responds only to bots that go after the decoys.</sub></td>
-    <td align="center">🛡️<br><b>Defensive only</b><br><sub>It shapes your own site's responses and never attacks back.</sub></td>
-    <td align="center">🧪<br><b>Tested in the lab</b><br><sub>Built and measured against real AI attack agents.</sub></td>
+    <td align="center">🚪<br><b>Off their list</b><br><sub>Attackers move on to someone else.</sub></td>
+    <td align="center">📊<br><b>Clarity</b><br><sub>Know whether you're a target, with proof.</sub></td>
+    <td align="center">🤝<br><b>Easy to approve</b><br><sub>No risk to your visitors or your reputation.</sub></td>
   </tr>
 </table>
 
